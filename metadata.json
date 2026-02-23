@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Dashboard Monitoring Penerimaan Siswa Baru",
+  "description": "A dashboard to monitor the new student admission process, tracking each stage from form purchase to final payment, following the Lazuardi workflow.",
+  "requestFramePermissions": []
+}
